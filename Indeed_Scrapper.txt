@@ -1,0 +1,24 @@
+https://www.indeed.com/jobs?q=seo+$100,000&l=New+York,+NY&jt=contract				Contract, seo, New York
+https://www.indeed.com/jobs?q=marketing+$100,000&l=New+York,+NY&jt=fulltime			Fulltime, marketing, New York
+https://www.indeed.com/jobs?q=marketing+%24100%2C000&jt=fulltime&l=New+York%2C+NY&radius=100	Radius 100 miles from New York
+https://www.indeed.com/jobs?q=marketing+%24100%2C000&l=New+York%2C+NY&radius=100&jt=fulltime&start=40	Start at page#4 of results
+
+Example:
+Digital Marketing Manager
+(URL)
+ExecOnline - 2 reviews - New York, NY
+$110,000 a year
+Redshift, MySQL, Hadoop, d3.js, Kinesis, Tableau, SOLR, Elastic Search and, yes, even Excel. Data Engineer & Architect....
+
+
+Extract/Scrape
+Job Title
+Job URL (HRef for Job Title)
+https://www.indeed.com/viewjob?cmp=ExecOnline,-Inc.&t=Data+Engineer+Architect&jk=daa50de766ddb775&q=Hadoop+%24100%2C000
+Company:	ExecOnline
+Company URL (HREF on company name if exist)
+City:		New York
+State:		NY
+Salary:		110,000
+Job Description:
+Redshift, MySQL, Hadoop, d3.js, Kinesis, Tableau, SOLR, Elastic Search and, yes, even Excel. Data Engineer & Architect....

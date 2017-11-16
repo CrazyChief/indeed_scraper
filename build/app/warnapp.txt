@@ -1,0 +1,33 @@
+missing module named resource - imported by posix, C:\Projects\Python\desktop\indeed_scraper\app.py
+missing module named posix - imported by os, C:\Projects\Python\desktop\indeed_scraper\app.py
+missing module named _posixsubprocess - imported by subprocess, C:\Projects\Python\desktop\indeed_scraper\app.py
+missing module named 'org.python' - imported by pickle, xml.sax, C:\Projects\Python\desktop\indeed_scraper\app.py
+missing module named ce - imported by os, C:\Projects\Python\desktop\indeed_scraper\app.py
+missing module named readline - imported by cmd, code, pdb, C:\Projects\Python\desktop\indeed_scraper\app.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, C:\Projects\Python\desktop\indeed_scraper\app.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, C:\Projects\Python\desktop\indeed_scraper\app.py
+missing module named _winreg - imported by platform, selenium.webdriver.firefox.firefox_binary, C:\Projects\Python\desktop\indeed_scraper\app.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, C:\Projects\Python\desktop\indeed_scraper\app.py
+missing module named 'java.lang' - imported by platform, xml.sax._exceptions, C:\Projects\Python\desktop\indeed_scraper\app.py
+missing module named vms_lib - imported by platform, C:\Projects\Python\desktop\indeed_scraper\app.py
+missing module named termios - imported by tty, getpass, C:\Projects\Python\desktop\indeed_scraper\app.py
+missing module named grp - imported by tarfile, shutil, C:\Projects\Python\desktop\indeed_scraper\app.py
+missing module named _dummy_threading - imported by dummy_threading, C:\Projects\Python\desktop\indeed_scraper\app.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, netrc, getpass, C:\Projects\Python\desktop\indeed_scraper\app.py
+missing module named org - imported by copy, C:\Projects\Python\desktop\indeed_scraper\app.py
+missing module named urllib2 - imported by selenium.webdriver.common.utils, selenium.webdriver.remote.remote_connection, selenium.webdriver.common.service
+missing module named urlparse - imported by selenium.webdriver.remote.remote_connection
+missing module named httplib - imported by selenium.webdriver.firefox.webdriver, selenium.webdriver.remote.remote_connection, selenium.webdriver.safari.webdriver, selenium.webdriver.blackberry.webdriver
+missing module named StringIO - imported by six, xlsxwriter.compatibility, selenium.webdriver.remote.webelement
+missing module named cStringIO - imported by cPickle, selenium.webdriver.firefox.firefox_profile
+missing module named copy_reg - imported by cPickle, cStringIO
+missing module named cPickle - imported by xlsxwriter.compat_collections
+missing module named PIL - imported by openpyxl.drawing.image
+missing module named Image - imported by openpyxl.drawing.image
+missing module named tests - imported by openpyxl.reader.excel
+missing module named _abcoll - imported by openpyxl.compat.odict
+missing module named dummy_thread - imported by openpyxl.compat.odict
+missing module named thread - imported by openpyxl.compat.odict
+missing module named pandas - imported by openpyxl.compat.numbers
+missing module named numpy - imported by openpyxl.compat.numbers
